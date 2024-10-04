@@ -1,0 +1,13 @@
+echo "# Minecraft-1.0" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Yo-cpu-0/Minecraft-1.0.git
+git push -u origin main
+<!DOCTYPEhtml>
+<html>
+<body>
+<p>hi</p>
+</body>
+</html>
